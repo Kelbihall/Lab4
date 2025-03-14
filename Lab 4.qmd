@@ -1,5 +1,4 @@
 ---
----
 title: "Lab 4"
 author: "Kelbi Hall"
 date: "2025-03-13"
