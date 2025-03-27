@@ -1,8 +1,12 @@
 ---
-title: "Lab 4"
-author: "Kelbi Hall"
-date: "2025-03-13"
-output: html_document
+title: "Lab 4: Statistics"
+subtitle: 'Ecosystem Science and Sustainability 330'
+author:
+    name: 'Kelbi Hall'
+    email: "kelbihal@colostate.edu"
+format: html
+execute:
+  echo: true
 ---
 ```{r}
 remotes::install_github("lter/lterdatasampler")
